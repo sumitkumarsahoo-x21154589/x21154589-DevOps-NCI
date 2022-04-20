@@ -12,3 +12,4 @@ Reservating system made in Python - DjangoFramework
 
 
 ![alt text](https://github.com/PetrKudy/Python/blob/master/Django/picture.png)
+"# x21154589-DevOps-NCI" 
